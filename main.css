@@ -8,12 +8,11 @@ body{
     background: tomato;
     top: 120px;
     height: 570px;
-    width: 22.7% ;
+    max-width:  440px;
     margin: 0 auto;
     border: 2px solid tomato;
     border-radius: 30px;
     box-shadow: -10px 10px 5px #888888;
-    -moz-transform: translate(0%, -13%);
 }
 
 .screen{
@@ -28,7 +27,6 @@ body{
     border-radius: 10px;
     outline:none;
     padding-right: 20px;
-    -moz-transform: translate(2.5%, 0%);
 }
 
 #screen{
@@ -43,7 +41,6 @@ body{
     top: 90px;
     left: 47px;
     width: 410px;
-    -moz-transform: translate(-10.5%, 0%);
 }
 
 #clearScreen{
