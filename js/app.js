@@ -337,4 +337,3 @@ function answer(){
             break;
      }
 }
-
