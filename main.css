@@ -10,11 +10,7 @@ body{
     background: tomato;
     top: 120px;
     height: 570px;
-<<<<<<< HEAD
     max-width:  440px;
-=======
-    max-width: 440px ;
->>>>>>> 20731f07c53b5030bf14ac79ae00613cc7e03ac2
     margin: 0 auto;
     border: 2px solid tomato;
     border-radius: 30px;
@@ -45,13 +41,8 @@ body{
 #input{
     position: absolute;
     top: 90px;
-<<<<<<< HEAD
     left: 47px;
     width: 410px;
-=======
-    left: 53px;
-    width: 95%px;
->>>>>>> 20731f07c53b5030bf14ac79ae00613cc7e03ac2
 }
 
 #clearScreen{
